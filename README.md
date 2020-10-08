@@ -1,2 +1,6 @@
 # love-yourself
-My first repository 
+My first repository
+
+Hi you!
+
+Elaine here~ 
