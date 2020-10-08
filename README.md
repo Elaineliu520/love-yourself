@@ -3,4 +3,4 @@ My first repository
 
 Hi you!
 
-Elaine here~ 
+Elaine here~ let's we go!
